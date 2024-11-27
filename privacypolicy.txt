@@ -1,0 +1,11 @@
+At Grocery Share, we respect your privacy and are committed to protecting the information you share with us.  
+
+Camera Use  
+Our app uses the device’s camera exclusively to scan QR codes within the app.
+No images or data from the camera are saved, transmitted, or shared with any external servers.
+All QR code scanning is processed locally on your device. 
+
+Data Collection  
+We do not collect any personal data through the camera or any other features of the app.
+No personal information is sent or stored on our servers.
+If you have any questions about this privacy policy, please contact us at poudelswastik@gmail.com.
